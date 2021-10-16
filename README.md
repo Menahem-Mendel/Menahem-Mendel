@@ -29,27 +29,33 @@ Languages: `English` `Hebrew` `Russian` `Ukrainian`
 ## Education
 ### Jerusalem College of Technology (JCT)
 _2020-Present_
+
 **Bachelors of Computer Science**, _Jerusalem, Israel_
 
 ### Dnipro National University
 _2018-2019_
+
 **Bachelors of Applied Mathematics**, _Dnipro, Ukraine_
 
 ## Certificates
 ### Learn How To Code: Google's Go (golang) Proramming Language
 _Sep 2021_
+
 **Udemy Course** - [See credential](https://www.codingame.com/certification/Ft0cRxSvwoTQRcPBDb-4SQ)
 
 ### CodinGame Go 100
 _Oct 2021_
+
 **CodinGame** - [See credential](udemy.com/certificate/UC-aee42747-8088-4977-9cbc-5ae536e1020a)
 
 ### Problem Solving (Basic)
 _Oct 2021_
+
 **HackerRank** - [See credential](https://www.hackerrank.com/certificates/f998975ea7b4)
 
 ### C Programming Language
 _Oct 2021_
+
 **TestDome** - [See credential](https://app.testdome.com/cert/f3742203c266483fa092144c95d773ac)
 
 ---
