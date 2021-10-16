@@ -41,12 +41,12 @@ _2018-2019_
 ### Learn How To Code: Google's Go (golang) Proramming Language
 _Sep 2021_
 
-**Udemy Course** - [See credential](https://www.codingame.com/certification/Ft0cRxSvwoTQRcPBDb-4SQ)
+**Udemy Course** - [See credential](udemy.com/certificate/UC-aee42747-8088-4977-9cbc-5ae536e1020a)
 
 ### CodinGame Go 100
 _Oct 2021_
 
-**CodinGame** - [See credential](udemy.com/certificate/UC-aee42747-8088-4977-9cbc-5ae536e1020a)
+**CodinGame** - [See credential](https://www.codingame.com/certification/Ft0cRxSvwoTQRcPBDb-4SQ)
 
 ### Problem Solving (Basic)
 _Oct 2021_
