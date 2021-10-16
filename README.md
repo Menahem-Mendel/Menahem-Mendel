@@ -18,7 +18,7 @@ Bachelor's degree student at Lev Academic Center (JCT) (Jerusalem College of Tec
 
 ## Skills
 
-Technical: `Go` `Python` `C` `C++` `SQL` `HTML` `CSS`
+Technical: `Go` `Python` `C` `C++` `SQL` `HTML` `CSS` `HUGO` `SQLite`
 
 Environment: `VS Code` `Visual Studio` `Vim` `Arduino IDE`
 
