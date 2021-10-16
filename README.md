@@ -1,65 +1,23 @@
-# **Menahem-Mendel Gelfand**
-Bachelor's degree student at Lev Academic Center (JCT) (Jerusalem College of Technology)
+<h1 align="center">Hi 👋, I'm Mendel</h1>
+<h3 align="center">A passionate software developer from Israel</h3>
 
-<!---
-## Work Experience
+- 🔭 I’m currently working on **winpack**
 
-### Upwork
-->_Jerusalem_
+- 🌱 I’m currently learning **Math**
 
-**Backend Engineer, Financial Data**
-->_April 2018 to December 2018_
+- 👯 I’m looking to collaborate on **Go**
 
-- Built large-scale (petabyte-size) financial data platform/solution/pipelines using Big Data technologies
-- Worked cross-functionally with many teams: Engineering, Treasury, Finance, Accounting, etc.
-- Worked on systems critical to future operation, with impact over billions of dollars of payments volume.
-- Developed a deep understanding of modern payments and financial technology across many countries.
---->
+- 💬 Ask me about **Go**
 
-## Skills
+- 📫 How to reach me **mendelgeljob@gmail.com**
 
-Technical: `Go` `Python` `C` `C++` `SQL` `HTML` `CSS` `HUGO` `SQLite`
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/menhame-mendel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="menhame-mendel" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/9976779" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9976779" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/mendelgel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mendelgel" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/menigel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="menigel" height="30" width="40" /></a>
+</p>
 
-Environment: `VS Code` `Visual Studio` `Vim` `Arduino IDE`
-
-Management: `Trello` `Git`
-
-Languages: `English` `Hebrew` `Russian` `Ukrainian`
-
-## Education
-### Jerusalem College of Technology (JCT)
-_2020-Present_
-
-**Bachelors of Computer Science**, _Jerusalem, Israel_
-
-### Dnipro National University
-_2018-2019_
-
-**Bachelors of Applied Mathematics**, _Dnipro, Ukraine_
-
-## Certificates
-### Learn How To Code: Google's Go (golang) Proramming Language
-_Sep 2021_
-
-**Udemy Course** - [See credential](udemy.com/certificate/UC-aee42747-8088-4977-9cbc-5ae536e1020a)
-
-### CodinGame Go 100
-_Oct 2021_
-
-**CodinGame** - [See credential](https://www.codingame.com/certification/Ft0cRxSvwoTQRcPBDb-4SQ)
-
-### Problem Solving (Basic)
-_Oct 2021_
-
-**HackerRank** - [See credential](https://www.hackerrank.com/certificates/f998975ea7b4)
-
-### C Programming Language
-_Oct 2021_
-
-**TestDome** - [See credential](https://app.testdome.com/cert/f3742203c266483fa092144c95d773ac)
-
----
-
-Email: **<mendelgeljob@gmail.com>**
-
-Linkedin: **[linkedin.com](linkedin.com/in/Menahem-Mendel)**
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
